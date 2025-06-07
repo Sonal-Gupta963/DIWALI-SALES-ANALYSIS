@@ -14,7 +14,7 @@ This project explores Diwali sales data to extract valuable business insights us
 
 -Matplotlib – for visualizations
 
--Seaborn (optional) – for advanced charts and heatmaps
+-Seaborn – for advanced charts and heatmaps
 
 
 📌 Key Analysis Performed:
